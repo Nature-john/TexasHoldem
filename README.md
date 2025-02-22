@@ -7,3 +7,6 @@
 ##### 管理后台用php
 ##### docker一建部署，方便维护
 ##### 微信：sky-yuheng
+
+##### 游戏示例图
+![image](https://github.com/Nature-john/TexasHoldem/blob/main/demo.jpg)
